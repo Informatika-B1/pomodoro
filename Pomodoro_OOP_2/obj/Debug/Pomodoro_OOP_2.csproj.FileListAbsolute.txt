@@ -1,0 +1,11 @@
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\bin\Debug\Pomodoro_OOP_2.exe.config
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\bin\Debug\Pomodoro_OOP_2.exe
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\bin\Debug\Pomodoro_OOP_2.pdb
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\obj\Debug\Pomodoro_OOP_2.csproj.AssemblyReference.cache
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\obj\Debug\Pomodoro_OOP_2.csproj.SuggestedBindingRedirects.cache
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\obj\Debug\Pomodoro_OOP_2.Form1.resources
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\obj\Debug\Pomodoro_OOP_2.Properties.Resources.resources
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\obj\Debug\Pomodoro_OOP_2.csproj.GenerateResource.cache
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\obj\Debug\Pomodoro_OOP_2.csproj.CoreCompileInputs.cache
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\obj\Debug\Pomodoro_OOP_2.exe
+C:\Folder Mufki\Semester-4\Object-Oriented-Programming-2\Pomodoro_OOP_2\Pomodoro_OOP_2\obj\Debug\Pomodoro_OOP_2.pdb
